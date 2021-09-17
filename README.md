@@ -9,10 +9,10 @@
      6. git commit -m "Message nya apa" memberikan informasi perubahan untuk developer
      7. git push -u [Name origin] [name-branch] master/main
 
-2. Perbedaan git reset dan git revert
+2. Perbedaan git reset dan git revert yaitu
 Perintah git reset , akan mengembalikan file ke kondisi sebelumnya, kemudian menghapus history commit beikutnya. Perintah git revert mengembalikan file dengan tidak menghapus history commit.
 
 
-3. Perbedaan GIT dan GITHUB
+3. Perbedaan GIT dan GITHUB yaitu 
 Git merupakan version control, sedangkan github merupakan penyedia service untuk melakukan version control.
 Kedua platform ini pada konsep kerjanya hampir sama dengan Dropbox dan Google Drive, hanya saja Git dan GitHub bekerja untuk mengolah kode script. Sedangkan DropBox dan Google Drive bertugas untuk mengolah kata.
