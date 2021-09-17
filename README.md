@@ -15,4 +15,3 @@ Perintah git reset , akan mengembalikan file ke kondisi sebelumnya, kemudian men
 
 3. Perbedaan GIT dan GITHUB yaitu 
 Git merupakan version control, sedangkan github merupakan penyedia service untuk melakukan version control.
-Kedua platform ini pada konsep kerjanya hampir sama dengan Dropbox dan Google Drive, hanya saja Git dan GitHub bekerja untuk mengolah kode script. Sedangkan DropBox dan Google Drive bertugas untuk mengolah kata.
