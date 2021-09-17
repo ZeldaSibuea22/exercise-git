@@ -10,7 +10,7 @@
      7. git push -u [Name origin] [name-branch] master/main
 
 2. Perbedaan git reset dan git revert yaitu
-Perintah git reset , akan mengembalikan file ke kondisi sebelumnya, kemudian menghapus history commit beikutnya. Perintah git revert mengembalikan file dengan tidak menghapus history commit.
+Perintah git reset , akan kembali ke commit sebelumnya, kemudian menghapus commit berikutnya, sedangkan git revert maka kita akan mundur ke commit tertentu dengan tidak menghapus commit sebelumnya.
 
 
 3. Perbedaan GIT dan GITHUB yaitu 
